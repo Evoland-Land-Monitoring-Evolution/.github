@@ -26,15 +26,19 @@ Forest:
 * C01 Continuous forest monitoring;
 * C02 Forest disturbance mapping;
 * C03 Forest biomass mapping;
+
 Agriculture:
 * C04 Cover crop type mapping;
 * C05 Cropland/grassland GPP monitoring;
 * C06 Small landscape features mapping;
+
 Water:
 * C07 Improved water bodies mapping;
+
 Urban:
 * C08 Continuous imperviousness monitoring [Markdown - Link]([#Link](https://github.com/Evoland-Land-Monitoring-Evolution/C8_ContinuousImperviousness.git));
 * C09 Automated land use mapping of urban dynamics;
+
 General land cover:
 * C10 Continuous mapping of land surface characteristics;
 * C11 On-demand land cover mapping
