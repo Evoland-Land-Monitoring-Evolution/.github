@@ -29,7 +29,7 @@ Please choose between the following methods and prototypes:
 * C05 Cropland/grassland GPP monitoring;
 * C06 Small landscape features mapping;
 ### Water:
-* C07 Improved water bodies mapping;
+* [C07 Improved water bodies mapping](https://github.com/Evoland-Land-Monitoring-Evolution/C7_ImproveWaterBodiesMapping.git);
 ### Urban:
 * [C08 Continuous imperviousness monitoring](https://github.com/Evoland-Land-Monitoring-Evolution/C8_ContinuousImperviousness.git);
 * C09 Automated land use mapping of urban dynamics;
