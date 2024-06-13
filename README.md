@@ -31,9 +31,9 @@ Please choose between the following methods and prototypes:
 ### Water:
 * C07 Improved water bodies mapping;
 ### Urban:
-* C08 Continuous imperviousness monitoring [Markdown - Link]([#Link](https://github.com/Evoland-Land-Monitoring-Evolution/C8_ContinuousImperviousness.git));
+* [C08 Continuous imperviousness monitoring - [Link](https://github.com/Evoland-Land-Monitoring-Evolution/C8_ContinuousImperviousness.git)];
 * C09 Automated land use mapping of urban dynamics;
 ### General land cover:
 * C10 Continuous mapping of land surface characteristics;
 * C11 On-demand land cover mapping
-[Markdown - [Link](https://github.com/Evoland-Land-Monitoring-Evolution/C8_ContinuousImperviousness.git)](#Link)
+
