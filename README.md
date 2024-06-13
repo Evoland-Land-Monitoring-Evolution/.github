@@ -3,8 +3,7 @@ Welcome to the EvoLand code repository, the project is funded by Horizon Europe 
 
 Please choose between the following methods and prototypes:
 
-Methods:
-
+## Methods:
 * T2.1 Novel EO data integration;
 * T2.2 Novel in-situ and training data;
 * T2.3 Novel infrastructure and data access;
@@ -20,25 +19,20 @@ Methods:
 	* T2.7.1 Forest biomass;
 	* T2.7.2 Grassland/cropland GPP biomass mapping;
 
-Prototypes:
-
-Forest:
+## Prototypes:
+### Forest:
 * C01 Continuous forest monitoring;
 * C02 Forest disturbance mapping;
 * C03 Forest biomass mapping;
-
-Agriculture:
+### Agriculture:
 * C04 Cover crop type mapping;
 * C05 Cropland/grassland GPP monitoring;
 * C06 Small landscape features mapping;
-
-Water:
+### Water:
 * C07 Improved water bodies mapping;
-
-Urban:
+### Urban:
 * C08 Continuous imperviousness monitoring [Markdown - Link]([#Link](https://github.com/Evoland-Land-Monitoring-Evolution/C8_ContinuousImperviousness.git));
 * C09 Automated land use mapping of urban dynamics;
-
-General land cover:
+### General land cover:
 * C10 Continuous mapping of land surface characteristics;
 * C11 On-demand land cover mapping
