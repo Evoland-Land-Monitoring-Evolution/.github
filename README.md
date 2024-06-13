@@ -5,17 +5,12 @@ Please choose between the following methods and prototypes:
 
 Methods:
 
-T2.1 Novel EO data integration
-
-T2.2 Novel in-situ and training data
-
-T2.3 Novel infrastructure and data access
-T2.4 Weakly supervised learning
-
-	T2.4.1 Self supervised learning
- 
-	T2.4.2 Generic embeddings
- 
+* T2.1 Novel EO data integration;
+* T2.2 Novel in-situ and training data;
+* T2.3 Novel infrastructure and data access;
+* T2.4 Weakly supervised learning;
+	* T2.4.1 Self supervised learning;
+	* T2.4.2 Generic embeddings;
 T2.5 Improved spatial/temporal/spectral resolution
 
 T2.6 Continuous monitoring
