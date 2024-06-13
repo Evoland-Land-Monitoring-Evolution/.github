@@ -1,4 +1,4 @@
-# .github
+# Introduction
 Welcome to the EvoLand code repository, the project is funded by Horizon Europe under grant nr: 101082130
 
 Please choose between the following methods and prototypes:
