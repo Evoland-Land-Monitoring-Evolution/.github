@@ -17,7 +17,7 @@ Please choose between the following methods and prototypes:
 	* [T2.6.3 Continuous mapping of LSC](https://github.com/Evoland-Land-Monitoring-Evolution/evoland-lsc.git);
 * T2.6 Biomass mapping;
 	* [T2.7.1 Forest biomass](https://github.com/Evoland-Land-Monitoring-Evolution/ForestBiomass.git);
-	* T2.7.2 Grassland/cropland GPP biomass mapping;
+	* [T2.7.2 Grassland/cropland GPP biomass mapping](https://github.com/Evoland-Land-Monitoring-Evolution/evoland-cropcarbon.git);
 
 ## Prototypes:
 ### Forest:
