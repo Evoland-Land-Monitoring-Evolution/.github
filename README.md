@@ -9,14 +9,14 @@ Please choose between the following methods and prototypes:
 * T2.3 Novel infrastructure and data access;
 * T2.4 Weakly supervised learning;
 	* T2.4.1 Self supervised learning;
-	* T2.4.2 Generic embeddings;
-* T2.5 Improved spatial/temporal/spectral resolution;
-*T2.6 Continuous monitoring
-	* T2.6.1 Change detection - time series modelling;
+	* [T2.4.2 Generic embeddings](https://github.com/Evoland-Land-Monitoring-Evolution/MMDC-SingleDate.git);
+* [T2.5 Improved spatial/temporal/spectral resolution](https://github.com/Evoland-Land-Monitoring-Evolution/sentinel2_superresolution.git);
+* T2.6 Continuous monitoring
+	* [T2.6.1 Change detection - time series modelling](https://github.com/Evoland-Land-Monitoring-Evolution/ts-modeling-benchmarking.git);
 	* T2.6.2 Change detectin - AI methods;
-	* T2.6.3 Continuous mapping of LSC;
+	* [T2.6.3 Continuous mapping of LSC](https://github.com/Evoland-Land-Monitoring-Evolution/evoland-lsc.git);
 * T2.6 Biomass mapping;
-	* T2.7.1 Forest biomass;
+	* [T2.7.1 Forest biomass](https://github.com/Evoland-Land-Monitoring-Evolution/ForestBiomass.git);
 	* T2.7.2 Grassland/cropland GPP biomass mapping;
 
 ## Prototypes:
