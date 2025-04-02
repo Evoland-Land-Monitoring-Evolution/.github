@@ -10,7 +10,7 @@ Please choose between the following methods and prototypes:
   	* [prosailVAE embeddings](https://github.com/Evoland-Land-Monitoring-Evolution/openeo_pvae);
   	* [Multi-Modal DataCube Downstream](https://github.com/Evoland-Land-Monitoring-Evolution/mmdc_downstream);
   	* [MALICE embeddings](https://github.com/Evoland-Land-Monitoring-Evolution/openeo_malice);
-* [Improved spatial/temporal/spectral resolution];
+* Improved spatial/temporal/spectral resolution;
 	* [Senintel-2 Super-Resolution](https://github.com/Evoland-Land-Monitoring-Evolution/sentinel2_superresolution);
  	* [Single Image Super-Resolution for HR remote-sensing sensors](https://github.com/Evoland-Land-Monitoring-Evolution/sisr4rs);
 	* [Temporal Attention, Multi-Resolution Fusion of Satellite Image Time-Series](https://github.com/Evoland-Land-Monitoring-Evolution/tamrfsits);
@@ -24,18 +24,18 @@ Please choose between the following methods and prototypes:
 
 ## Prototypes:
 ### Forest:
-* C01 Continuous forest monitoring;
-* C02 Forest disturbance mapping;
-* C03 Forest biomass mapping;
+* [C01 Continuous forest monitoring](https://github.com/Evoland-Land-Monitoring-Evolution/C1_ContinuousForestMonitoring);
+* [C02 Forest disturbance mapping](https://github.com/Evoland-Land-Monitoring-Evolution/C2_ForestDisturbance);
+* [C03 Forest biomass mapping](https://github.com/Evoland-Land-Monitoring-Evolution/C3_ForestBiomass);
 ### Agriculture:
-* C04 Cover crop type mapping;
-* C05 Cropland/grassland GPP monitoring;
-* C06 Small landscape features mapping;
+* [C04 Cover crop type mapping](https://github.com/Evoland-Land-Monitoring-Evolution/C4_CoverCropType);
+* [C05 Cropland/grassland GPP monitoring]();
+* [C06 Small landscape features mapping](https://github.com/Evoland-Land-Monitoring-Evolution/C6_SmallLandscapeFeatures);
 ### Water:
-* [C07 Improved water bodies mapping](https://github.com/Evoland-Land-Monitoring-Evolution/C7_ImproveWaterBodiesMapping.git);
+* [C07 Improved water bodies mapping](https://github.com/Evoland-Land-Monitoring-Evolution/C7_ImproveWaterBodiesMapping);
 ### Urban:
-* [C08 Continuous imperviousness monitoring](https://github.com/Evoland-Land-Monitoring-Evolution/C8_ContinuousImperviousness.git);
-* C09 Automated land use mapping of urban dynamics;
+* [C08 Continuous imperviousness monitoring](https://github.com/Evoland-Land-Monitoring-Evolution/C8_ContinuousImperviousness);
+* [C09 Automated land use mapping of urban dynamics](https://github.com/Evoland-Land-Monitoring-Evolution/C9_MappingUrbanDynamics);
 ### General land cover:
 * C10 Continuous mapping of land surface characteristics;
 * C11 On-demand land cover mapping
