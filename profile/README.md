@@ -5,8 +5,9 @@ Please choose between the following methods and prototypes:
 
 ## Methods:
 * T2.4 Weakly supervised learning;
-	* [T2.4.1 Self supervised learning](https://github.com/Evoland-Land-Monitoring-Evolution/evoland-software);
-	* [T2.4.2 Generic embeddings](https://github.com/Evoland-Land-Monitoring-Evolution/MMDC-SingleDate.git);
+	* [Self supervised learning](https://github.com/Evoland-Land-Monitoring-Evolution/evoland-software);
+	* [Multi-Modal DataCube Single Date](https://github.com/Evoland-Land-Monitoring-Evolution/MMDC-SingleDate);
+ 	* [Multi-Modal DataCube Downstream] (https://github.com/Evoland-Land-Monitoring-Evolution/mmdc_downstream);
 * [T2.5 Improved spatial/temporal/spectral resolution](https://github.com/Evoland-Land-Monitoring-Evolution/sentinel2_superresolution.git);
 * T2.6 Continuous monitoring
 	* [T2.6.1 Change detection - time series modelling](https://github.com/Evoland-Land-Monitoring-Evolution/ts-modeling-benchmarking.git);
