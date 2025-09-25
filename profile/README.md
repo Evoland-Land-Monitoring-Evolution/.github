@@ -38,4 +38,4 @@ Please choose between the following methods and prototypes:
 * [C09 Automated land use mapping of urban dynamics](https://github.com/Evoland-Land-Monitoring-Evolution/C9_MappingUrbanDynamics);
 ### General land cover:
 * C10 Continuous mapping of land surface characteristics;
-* C11 On-demand land cover mapping
+* [C11 On-demand land cover mapping](https://github.com/Evoland-Land-Monitoring-Evolution/C11_ondemandLCM)
